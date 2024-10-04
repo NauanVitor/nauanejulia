@@ -2,7 +2,7 @@ let estados = ['DF','GO','MT','MS','AL','BA','CE','MA','PB','PE','PI','RN','SE',
 let i= 0;
 while(i<10){
 console.log(i);
-console.log (estados[i];
+console.log (estados[i]);
     i++;
 
 
